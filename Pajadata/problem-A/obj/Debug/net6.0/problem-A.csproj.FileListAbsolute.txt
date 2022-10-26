@@ -1,0 +1,15 @@
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\bin\Debug\net6.0\problem-A.exe
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\bin\Debug\net6.0\problem-A.deps.json
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\bin\Debug\net6.0\problem-A.runtimeconfig.json
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\bin\Debug\net6.0\problem-A.dll
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\bin\Debug\net6.0\problem-A.pdb
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.csproj.AssemblyReference.cache
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.AssemblyInfoInputs.cache
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.AssemblyInfo.cs
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.dll
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\refint\problem-A.dll
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.pdb
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\problem-A.genruntimeconfig.cache
+C:\Users\alexd\Desktop\interviews\pajadata\problem-A\obj\Debug\net6.0\ref\problem-A.dll
